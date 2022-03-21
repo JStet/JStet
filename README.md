@@ -1,4 +1,4 @@
 ### Hey 👋
 
-Visit my website: ![jstet.net](https://www.jstet.net)
+Visit my website: [jstet.net](https://www.google.com)
 
