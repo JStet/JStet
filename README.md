@@ -1,4 +1,4 @@
 ### Hi :)
 
-Visit my personal webpage: [jstet.net](https://www.google.com)
+Visit my personal webpage: [jstet.net](https://jstet.net)
 
